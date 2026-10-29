@@ -16,7 +16,7 @@ Edge AI serisinin 1. bölümü — sonraki bölümlerde bu kurulumun üzerine g�
 Bu repo, Raspberry Pi 5'i **yapay zeka uygulamalarına hazır hâle getirmenin** adım adım, Türkçe ve denenmiş rehberidir.
 Tüm komutlar güncel **Raspberry Pi OS (Debian Trixie, Python 3.13)** üzerinde test edilmiş; kaynak kitaptaki eski veya hatalı komutlar düzeltilmiştir.
 
-📄 **Tam ders notu:** [01-raspberry-pi-kurulumu.md](01-raspberry-pi-kurulumu.md)
+📄 **Tam ders notu:** [01-raspberry-pi-kurulumu.md](01-raspberry-pi-kurulumu (2).md)
 
 | # | Konu | Öğrenilenler |
 |---|---|---|
